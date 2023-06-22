@@ -1,6 +1,10 @@
 # Bowling Score Calculator
 
+The requirements for the application are specified here -> [Ruby Challenge Instructions](https://i.ibb.co/SngFsNn/bowling-challenge-instructions.png)
+
+
 This Ruby app takes a file with simulated bowling tries, calculates the score for each player and prints a formatted scoreboard in the command line with the apropriate score for the game.
+
 
 ## How to run
 Clone this repo and assuming you already have ruby installed run:
